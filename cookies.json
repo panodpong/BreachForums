@@ -1,0 +1,92 @@
+[
+  {
+    "name": "__ddg9_",
+    "value": "49.237.20.111",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": 1744107743.619903,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__ddg1_",
+    "value": "zhfs02KB65Zywg1C9XMg",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": 1775623758.290194,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mybb[lastvisit]",
+    "value": "1744087757",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": 1775623758.290249,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sid",
+    "value": "ec6a502272140df7d2a146ff5c0b064d",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mybb[lastactive]",
+    "value": "1744087783",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": 1775623784.046546,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "loginattempts",
+    "value": "1",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": 1775623784.046636,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mybbuser",
+    "value": "394449_fMUzBq18B7FxgDRLtYf6MvuArJDbc5S8kkqCDOBqFTHqA0oYVb",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__ddg10_",
+    "value": "1744087808",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": 1744107743.619862,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__ddg8_",
+    "value": "qhMJZFQurkO9M0JY",
+    "domain": ".breachforums.st",
+    "path": "/",
+    "expires": 1744107743.619787,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
